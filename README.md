@@ -3,6 +3,8 @@
  
  ### :framed_picture: screenshot
  ___
+
+<div align="center">
  
 <table>
   <tr>
@@ -11,6 +13,8 @@
    </td>
   </tr>
 </table>
+
+</div>
  
 
  ### 🗃️: Social Networks :
